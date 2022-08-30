@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Yash's First CS193 Homework
 ## Friday, September 2
 
-- **Student-led**
+- **Student-led
 - Multiple ways to get help if needed
 - Notes are easy to follow and comprehensible
 
